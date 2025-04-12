@@ -1,0 +1,4 @@
+*.json
+bot.log
+__pycache__/
+*.pyc
